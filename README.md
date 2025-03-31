@@ -17,13 +17,5 @@ To catalog döner shops with 100% objective data: price, weight, dimensions, mea
 - Shop data (size, seating, card support, tea availability)
 - Easily extendable to other cities
 
-## 🚀 Coming Soon
-- Interactive map of döner spots
-- Analysis dashboards
-- Public contribution form
-
 ## 🤝 Contribute
 Want to add data from your city? Fork the repo, add your entries, and submit a pull request!
-
-## 📜 License
-To be added – likely CC0 or MIT.
